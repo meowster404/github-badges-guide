@@ -125,14 +125,6 @@ Also credit to @Schweinepriester and @drknzz for their high-quality badge images
 
 ---
 
-## 📝 Repository Used
-
-**Test Repository**: [meowster404/github-badges-test](https://github.com/meowster404/github-badges-test)
-
-This repository was created specifically to test and demonstrate the badge-earning process.
-
----
-
 ## ⚙️ Technical Details
 
 - **Tools Used**: GitHub CLI (`gh` command)
